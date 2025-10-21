@@ -32,11 +32,9 @@ AppSec leads keep telling us:
 ### [Precogly Open Source](https://github.com/precogly/precogly-open-source)
 An agentic threat modeling platform that combines LLMs with deterministic rule engines. Every threat and mitigation includes a reasoning trace grounded in CVE, CAPEC, MITRE ATT&CK, and OWASP.
 ### [ERIMAS](https://github.com/precogly/erimas) 
-An early stage prototype for evaluating _emergent_ risks in multi agentic systems
+An early stage prototype for evaluating _emergent_ risks in multi agentic systems [ERIMAS].
 
-*Presented at ThreatModCon 2025*
-
-**Status**: Early stage, seeking design partners
+*Presented at [ThreatModCon 2025](https://www.threatmodcon.com/agenda/a-generative-approach-to-modeling-emergent-threats-in-multi-agentic-systems)*
 
 ## Coming Soon
 - Precogly Abuse - Auto generation of OWASP style abuse stories
