@@ -1,36 +1,25 @@
 # Precogly
-**Building agentic threat modeling tools for AI-era AppSec teams**
+**Explorations at the intersection of threat modeling and generative AI**
 
-We're building explainable, trustworthy, high signal-to-noise threat modeling tools that combine Large Language Models with deterministic rule engines — giving security teams both speed and confidence. 
+## What We're Working On
+
+We're experimenting with new approaches to make threat modeling more scalable and trustworthy for modern AppSec teams.
+
+Developers won't do traditional threat modeling - it's too time-consuming and complex. AI-powered approaches lack trust. We're exploring what comes next.
 
 ## Who We Are
-Precogly creates trustworthy, explainable threat modeling tools for modern AppSec teams. We believe automated threat modeling shouldn't be a black box.
 
-The founder is [Vikram](https://www.linkedin.com/in/vikramadityanarayan/).
+Founded by [Vikram](https://www.linkedin.com/in/vikramadityanarayan/), a CTMP (Certified Threat Modeling Professional) and AI engineer interested in building threat modeling tools developers actually want to use.
 
-## Our Mission
-Make threat modeling scalable without sacrificing trust — by combining AI with transparent, auditable reasoning.
+## Research & Talks
 
-## The Problem We're Solving
-AppSec leads keep telling us:
-> * Threat modeling is one of the highest ROI activities for our AppSec team.
-> * Ideally we'd run a threat model for every user story — especially now, with AI-driven features shipping fast.
-> * But we can't, because developers won't do threat modeling themselves, and our AppSec team is resource-constrained.
-> * We want to use AI, but…
->   * How can we be sure the threat models are any good? (trustworthiness)
->   * How can we know why some risks were ignored or prioritized? (explainability)
->   * The output of LLMs can be massive and finding useful info is like finding a needle in a haystack (signal-to-noise)
+[ERIMAS](https://github.com/precogly/TMC-Washington-Nov-2025) 
 
-## Our Approach
-An agentic threat modeling platform that combines LLMs with deterministic rule engines. Every threat and mitigation includes a reasoning trace grounded in CVE, CAPEC, MITRE ATT&CK, and OWASP.
-
-## Research
-### [ERIMAS](https://github.com/precogly/TMC-Washington-Nov-2025) 
 Early-stage research on evaluating _emergent_ risks in multi-agentic systems.
-
 *Presented at [ThreatModCon 2025](https://www.threatmodcon.com/agenda/a-generative-approach-to-modeling-emergent-threats-in-multi-agentic-systems)*
 
-## Join Our Design Partner Program
-We're working with select AppSec leaders to refine Precogly for real-world threat modeling workflows.
+## Get in Touch
 
-**Interested?** Email: vikramsnarayan@gmail.com
+Interested in collaborating or learning more about our work?
+
+**Email:** vikramsnarayan@gmail.com
